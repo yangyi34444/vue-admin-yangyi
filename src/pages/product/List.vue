@@ -1,5 +1,6 @@
 <template>
   <div>
+      <!-- 产品管理 -->
       <h2>产品管理</h2>
     <!-- 按钮 -->
     <el-button size="samll" type="primary" @click="toAddHandel">添加</el-button> 
